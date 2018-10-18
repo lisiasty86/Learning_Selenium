@@ -15,7 +15,7 @@ public class AutomationPracticeHome {
 
     String[] sizeTable = new String[] {"Small", "Medium", "Large"};
     //String[] sizeTable = new String[3];
-    //sizeTable[0] = "Small";
+    //sizeTable[0] = "Small";fyghdfghfdvgnfghvcbmn
     //sizeTable[1] = "Medium";
     //sizeTable[2] = "Larghe";
     int size;
